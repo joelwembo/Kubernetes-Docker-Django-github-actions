@@ -18,3 +18,14 @@ Run the application on Kubernetes with a yaml file
 Note: Follow the prerequisites in 'Run the application on Kubernetes section' before executing command below.
 
 kubectl create -f deployment.yaml
+
+#React
+
+React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
+
+#Mysql
+
+MySQL is an open-source relational database management system. Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
+
+#Postgres
+PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance. It was originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley.
